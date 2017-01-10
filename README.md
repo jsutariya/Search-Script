@@ -2,10 +2,13 @@
 This is a small PHP script file which can be used as standalone application to perform search task in files.
 This file is used to find a keyword in a source code in any PHP based source code. Mainly created to be used in Magento setups to find a keyword in its related files. It can be used in any PHP based setup like Magento, Wordpress, Laravel, CodeIgniter, CakePHP, etc.
 
-How to use?
-It asks for 3 input, 
-Search Keyword (compulsory) 
-Name of Directory (Optional)
+How to use?<br />
+Put search.php file in your system's root folder and access it with URL<br />
+http:://yourhostname.com/search.php
+
+It asks for 3 input, <br />
+Search Keyword (compulsory) <br />
+Name of Directory (Optional)<br />
 File Extension (Optional)
 
 ![ScreenShot](https://jsutariya.files.wordpress.com/2017/01/search-script.png?w=640)
