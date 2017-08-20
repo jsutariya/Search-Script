@@ -11,7 +11,7 @@ Search Keyword (compulsory) <br />
 Name of Directory (Optional)<br />
 File Extension (Optional)
 
-![ScreenShot](https://jsutariya.files.wordpress.com/2017/01/search-script.png?w=640)
+![ScreenShot](https://jsutariya.files.wordpress.com/2017/01/search-script.png?w=800)
 
 Search Keyword is the keyword you want to search in your filesystem (Keyword is case sensitive)
 
@@ -21,4 +21,4 @@ File Extension will be the extension of the file in which you want to seach a sp
 
 When you click on search button, it will search from all files as per criteria and will display you the results with the file containing the keyword.
 
-![ScreenShot](https://jsutariya.files.wordpress.com/2017/01/search-script2.png?w=640)
+![ScreenShot](https://jsutariya.files.wordpress.com/2017/01/search-script2.png?w=800)
